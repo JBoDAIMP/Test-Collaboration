@@ -1,1 +1,2 @@
 My CapStone project is to analyse productivity data to identify what drivers, in the workplace, are most influential.  (Janice Bolton)
+I am Janice's friend helping her out.  Due to family bereavement she was too late to collaborate with her peers on the Data analyst course and so I have used my Git Hub account to contribute to her text file. (Darren)
